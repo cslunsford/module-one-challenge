@@ -9,5 +9,5 @@ I completed this project by downloading the starter code from github and refacto
 [Link](https://cslunsford.github.io/module-one-challenge/Develop/)
 
 ## Screenshots of Webpage
-(https://github.com/cslunsford/module-one-challenge/blob/main/Develop/assets/images/Screenshot%202023-06-05%20at%201.20.21%20PM.png)
-(https://github.com/cslunsford/module-one-challenge/blob/main/Develop/assets/images/Screenshot%202023-06-05%20at%201.20.45%20PM.png)
+[Screenshot 1](https://github.com/cslunsford/module-one-challenge/blob/main/Develop/assets/images/Screenshot%202023-06-05%20at%201.20.21%20PM.png)
+[Screenshot 2](https://github.com/cslunsford/module-one-challenge/blob/main/Develop/assets/images/Screenshot%202023-06-05%20at%201.20.45%20PM.png)
