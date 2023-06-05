@@ -6,7 +6,7 @@ This webpage is for a company called Horiseon. The purpose of the webpage is to 
 I completed this project by downloading the starter code from github and refactoring it using VS Code. I used HTML and CSS to refactor the code into semantic elements and clean up the style page. 
 
 ## Link
-[Link to page](cslunsford.github.io/module-one-challenge/Develop)
+(cslunsford.github.io/module-one-challenge/Develop)
 
 ## Screenshots of Webpage
 (https://github.com/cslunsford/module-one-challenge/blob/main/Develop/assets/images/Screenshot%202023-06-05%20at%201.20.21%20PM.png)
