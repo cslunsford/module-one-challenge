@@ -9,5 +9,3 @@ I completed this project by downloading the starter code from github and refacto
 [Link to page](cslunsford.github.io/module-one-challenge)
 
 ## Screenshots of Webpage
-[Screenshot of Wepbage 1](/Users/christopher/bootcamp/module-one-challenge/Develop/assets/images/Screenshot 2023-06-05 at 1.20.21 PM.png)
-[Screenshot of Webpage 2](/Users/christopher/bootcamp/module-one-challenge/Develop/assets/images/Screenshot 2023-06-05 at 1.20.45 PM.png)
